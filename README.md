@@ -1,4 +1,4 @@
-# Synology Hyper Backup Scheduler
+# Synology Hyper Backup Resume
 
 Created to solve an issue documented here - https://community.synology.com/enu/forum/5/post/154857
 
